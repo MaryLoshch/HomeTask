@@ -1,4 +1,4 @@
-# Инструкция по работе с командами Git 
+# Инструкция по работе с командами Git (Использя синтаксис Markdown)
 
 ### 1. Оформление текста
 
@@ -17,5 +17,5 @@
 
     *Больше способов выделения теста можно найти по [ссылке](https://texterra.ru/blog/ischerpyvayushchaya-shpargalka-po-sintaksisu-razmetki-markdown-na-zametku-avtoram-veb-razrabotchikam.html)*
 
-
+### 2. Порядок работы с командами Git.
 
