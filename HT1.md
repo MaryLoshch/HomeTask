@@ -10,4 +10,5 @@
     
     Для изменения размера заголовка испуользуем знак "#" в начале текста (чем больше количество знаков - тем меньше размер текста заголовка)
 
+    Больше способов выделения теста можно найти по ссылке: https://texterra.ru/blog/ischerpyvayushchaya-shpargalka-po-sintaksisu-razmetki-markdown-na-zametku-avtoram-veb-razrabotchikam.html
     
