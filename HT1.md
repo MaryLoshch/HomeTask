@@ -10,5 +10,9 @@
     
     Для изменения размера заголовка испуользуем знак "#" в начале текста (чем больше количество знаков - тем меньше размер текста заголовка)
 
-    Больше способов выделения теста можно найти по ссылке: https://texterra.ru/blog/ischerpyvayushchaya-shpargalka-po-sintaksisu-razmetki-markdown-na-zametku-avtoram-veb-razrabotchikam.html
-    
+    Для того, чтобы вставить **ссылку** используем "<>"
+
+    Либо используем [слово для нажатия] (ссылка) без пробелов между скобками
+
+    Больше способов выделения теста можно найти по [ссылке](https://texterra.ru/blog/ischerpyvayushchaya-shpargalka-po-sintaksisu-razmetki-markdown-na-zametku-avtoram-veb-razrabotchikam.html)
+
